@@ -1,0 +1,16 @@
+.btn-blue {
+    background-color: #6D71DD;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 4px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    border: none; /* Removes default border */
+    cursor: pointer; /* Changes cursor to pointer to indicate it's clickable */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.btn-blue:hover {
+    background-color: #5a5ecb; /* Slightly darker shade on hover */
+}

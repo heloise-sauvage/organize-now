@@ -1,0 +1,7 @@
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    object-fit: cover; /* Ensures the image covers the space without stretching */
+    border: 2px solid white; /* Optional: adds a white border around the avatar */
+}
